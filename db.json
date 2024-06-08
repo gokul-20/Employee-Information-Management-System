@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "513a",
+      "firstName": "Gokul",
+      "lastName": "R",
+      "EmployeeID": "0021",
+      "Age": 18,
+      "dob": "2015-04-24T18:30:00.000Z",
+      "email": "gokul04200326@gmail.com",
+      "Contact": "8939692604",
+      "gender": "male",
+      "Designation": "Manager",
+      "doj": "",
+      "Address1": "13/27 Thirumalaiappan Street",
+      "Address2": "Purasawalkkam Chennai 7"
+    }
+  ]
+}
