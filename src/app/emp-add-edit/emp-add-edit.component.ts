@@ -32,6 +32,8 @@ export class EmpAddEditComponent implements OnInit {
       doj: '',
       Address1:'',
       Address2:'',
+      Section:'',
+      Unit:'',
   
     });
   }
